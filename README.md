@@ -41,7 +41,7 @@ Replace `<city>` with the name of the city for which you want to check the weath
 
 Here is an example of how to use the Weather CLI:
 
-```weather São Paulo```
+```weather Natal```
 
 This command will fetch and display the weather forecast for the city of São Paulo.
 
@@ -109,7 +109,7 @@ Substitua `<cidade>` pelo nome da cidade para a qual você deseja verificar a pr
 
 Aqui está um exemplo de como utilizar o Weather CLI:
 
-```weather São Paulo```
+```weather Natal```
 
 Esse comando irá buscar e exibir a previsão do tempo para a cidade de São Paulo.
 
