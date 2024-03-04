@@ -43,7 +43,7 @@ Here is an example of how to use the Weather CLI:
 
 ```weather Natal```
 
-This command will fetch and display the weather forecast for the city of São Paulo.
+This command will fetch and display the weather forecast for the city of Natal.
 
 ## Contributions
 
