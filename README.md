@@ -111,7 +111,7 @@ Aqui está um exemplo de como utilizar o Weather CLI:
 
 ```weather Natal```
 
-Esse comando irá buscar e exibir a previsão do tempo para a cidade de São Paulo.
+Esse comando irá buscar e exibir a previsão do tempo para a cidade de Natal.
 
 ## Contribuições
 
